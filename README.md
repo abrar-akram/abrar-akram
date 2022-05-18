@@ -18,7 +18,7 @@
     Stats:
   </h3>
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-akram&show_icons=true&count_private=true) !
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-akram&show_icons=true&count_private=true)
 </div> 
 <div align="center"> 
   <h5>
