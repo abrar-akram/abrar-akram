@@ -22,6 +22,6 @@
 </div> 
 <div align="center"> 
   <h5>
-    Made with :heart: and :computer: by <a href="https://www.github.com/aaqibb13">Abrar Akram</a>
+    Made with :heart: and :computer: by <a href="https://www.github.com/abrar-akram">Abrar Akram</a>
   </h5>
  </div>
